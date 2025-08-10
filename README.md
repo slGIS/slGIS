@@ -26,20 +26,14 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
-</p>
 
 ---
 
 ### 🌍 Featured GIS Work
-<p align="center">
-  ![LAGHARI](https://github.com/user-attachments/assets/fea6271d-1ecf-4cdc-bb92-52b235a85320)
-</p>
+![LAGHARI](https://github.com/user-attachments/assets/a736ee02-4a48-4e01-a34b-a585c8e05d23)
+![LAGHARI](https://github.com/user-attachments/assets/e39ea7ee-8974-4b01-a015-52d6f2998ea2)
+![LAGHARI](https://github.com/user-attachments/assets/e0aa04ed-eb09-4b1d-ae6f-18120880fec3)
+![LAGHARI](https://github.com/user-attachments/assets/f99cb2c0-2a24-4557-b906-c81e15e02752)
 
 ---
 
@@ -52,3 +46,11 @@
 
 ---
 ⭐️ *Feel free to explore my repositories for GIS, Remote Sensing, and Spatial Data Science projects!*
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
+</p>
+
