@@ -38,7 +38,7 @@
 
 ### 🌍 Featured GIS Work
 <p align="center">
-  ![LAGHARI](https://github.com/user-attachments/assets/3cf7609b-4451-4055-9712-b7926cdba72a)
+  ![LAGHARI](https://github.com/user-attachments/assets/fea6271d-1ecf-4cdc-bb92-52b235a85320)
 </p>
 
 ---
