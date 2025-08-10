@@ -31,11 +31,30 @@
 
 ### 🌍 Featured GIS Work
 ![LAGHARI](https://github.com/user-attachments/assets/a736ee02-4a48-4e01-a34b-a585c8e05d23)
-![LAGHARI](https://github.com/user-attachments/assets/e39ea7ee-8974-4b01-a015-52d6f2998ea2)
-![LAGHARI](https://github.com/user-attachments/assets/e0aa04ed-eb09-4b1d-ae6f-18120880fec3)
-![LAGHARI](https://github.com/user-attachments/assets/f99cb2c0-2a24-4557-b906-c81e15e02752)
+
 
 ---
+
+
+![LAGHARI](https://github.com/user-attachments/assets/e39ea7ee-8974-4b01-a015-52d6f2998ea2)
+
+
+---
+
+
+![LAGHARI](https://github.com/user-attachments/assets/e0aa04ed-eb09-4b1d-ae6f-18120880fec3)
+
+
+---
+
+
+![LAGHARI](https://github.com/user-attachments/assets/f99cb2c0-2a24-4557-b906-c81e15e02752)
+
+
+---
+
+
+
 
 ### 📫 Connect With Me
 <p align="center">
