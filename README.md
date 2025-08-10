@@ -31,25 +31,24 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?
 </p>
 
 ---
 
 ### 🌍 Featured GIS Work
 <p align="center">
-  <img src="https://i.imgur.com/kOqQJY3.gif" alt="GIS Map Animation" width="400"/>
-  <img src="https://i.imgur.com/HXTi0GF.gif" alt="Remote Sensing Visualization" width="400"/>
+  ![LAGHARI](https://github.com/user-attachments/assets/3cf7609b-4451-4055-9712-b7926cdba72a)
 </p>
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sania-laghari-b4a38663/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sanialaghari14@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/slGIS"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
-⭐️ *Feel free to explore my repositories for GIS, Remote Sensing, and Spatial Data Science projects!*![LAGHARI](https://github.com/user-attachments/assets/107c4c83-bf0c-4399-8a20-a35c6fe4efeb)
+⭐️ *Feel free to explore my repositories for GIS, Remote Sensing, and Spatial Data Science projects!*
